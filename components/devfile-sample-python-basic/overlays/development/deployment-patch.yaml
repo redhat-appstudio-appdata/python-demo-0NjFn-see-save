@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/hongweiliu-tenant/python-demo/devfile-sample-python-basic@sha256:a5fc0949be1a852f08c6e2e56bcc7fdd93bc5685edc15e8f12ef1787a5d15fe1
+      - image: quay.io/redhat-user-workloads/hongweiliu-tenant/python-demo/devfile-sample-python-basic@sha256:bcc1702d3170a3bfa062ee434917c951e514b143fe4d6e568b5e107b65ae25ac
         name: my-python
         resources: {}
 status: {}
